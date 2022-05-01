@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultipileActivities</string>
+    <string name="textview" >textview</string>
+    <string name="textview2" >textview2</string>
+    <string name="textview3" >textview3</string>
+    <string name="txtUsername" >Username</string>
+    <string name="btn">btn</string>
+    <string name="btn2">btn2</string>
+</resources>
